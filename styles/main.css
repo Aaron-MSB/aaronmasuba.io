@@ -68,14 +68,14 @@ li{
 }
 
 #user-name{
-    font-size: 3em;
+    font-size: 2.5em;
     line-height: 1em;
 }
 
 #profile-pic{
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
 }
 
@@ -180,8 +180,8 @@ li{
     }
 
     #profile-pic{
-        width: 200px;
-        height: 200px;
+        width: 250px;
+        height: 250px;
     }
 
 
